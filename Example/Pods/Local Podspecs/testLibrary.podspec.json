@@ -1,0 +1,22 @@
+{
+  "name": "testLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of testLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/testLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "trupti": "ekata.305@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/testLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testLibrary/Classes/**/*"
+}
